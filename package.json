@@ -1,0 +1,32 @@
+{
+  "name": "elite-dangerous-mcp",
+  "version": "0.0.0-alpha.0",
+  "description": "",
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.3.1",
+    "@eslint/js": "^9.33.0",
+    "@tsconfig/node22": "^22.0.2",
+    "@types/node": "^24.2.1",
+    "@types/jsdom": "^21.1.7",
+    "eslint": "^9.33.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.4",
+    "prettier": "^3.6.2",
+    "typescript": "^5.9.2",
+    "typescript-eslint": "^8.39.0"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.2",
+    "@mzyil/typescript-mcp-framework": "mzyil/typescript-mcp-framework#main",
+    "jsdom": "^26.1.0",
+    "source-map-support": "^0.5.21",
+    "zod": "^4.0.16"
+  }
+}

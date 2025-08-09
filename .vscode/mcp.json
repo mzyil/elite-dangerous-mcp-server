@@ -1,0 +1,17 @@
+{
+  "servers": {
+    "elite-dangerous-mcp-server": {
+      "type": "stdio",
+      "command": "npx",
+      "cwd": "${workspaceFolder}",
+      "env": {
+        "STRIP_META_SCHEMA": "true"
+      },
+      "args": [
+        "tsx",
+        "src/index.ts"
+      ]
+    }
+  },
+  "inputs": []
+}
