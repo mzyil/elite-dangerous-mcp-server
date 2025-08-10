@@ -1,5 +1,17 @@
 # Elite Dangerous MCP Server
 
+> ## 🚀 **IMPORTANT ACKNOWLEDGMENT** 🚀
+> 
+> **This MCP server is powered by the incredible work of CMDR Spansh and the Elite Dangerous community!** 🌟
+> 
+> The data and APIs that make this tool possible are the result of **hundreds of hours of dedicated effort** by CMDR Spansh and countless community contributors. Please be **considerate and respectful**  in your usage of these services.
+> 
+> 🙏 **Show your appreciation:**
+> - 💝 [**Thank CMDR Spansh and the team**](https://www.spansh.co.uk/thanks) for their amazing work
+> - ❤️ [**Support Spansh with a donation**](https://www.patreon.com/spansh) to help keep these services running
+> 
+> **Remember: Be kind to the APIs 🤖💚, don't abuse rate limits ⚠️🛑, and respect the community 🫶✨ that makes this possible!**
+
 A Model Context Protocol (MCP) server for Elite Dangerous that provides tools to query game data and assist with trading, exploration, and other activities in the Elite Dangerous universe.
 
 > **⚠️ Active Development**: This project is currently in active development. Features and APIs may change. Contributions, suggestions, and ideas for new tools are very welcome!
